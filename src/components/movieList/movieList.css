@@ -1,0 +1,32 @@
+.list__title {
+    font-size: 1.75rem;
+    margin: 2.5rem;
+    color: white;
+  }
+  
+  .list__cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+
+  .search-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.7rem; 
+  }
+  
+  
+  .search-button {
+    background-color: red;
+    color: white;
+    padding: 0.02rem 0.9rem;
+    border: none;
+    cursor: pointer;
+
+  }
+  
+
+  
